@@ -1,12 +1,13 @@
 @font-face {
-  font-family: "Clear Sans";
-  src: url("/fonts/ClearSans-Bold.ttf");
+  /*font-family: "Clear Sans";
+  src: url("/fonts/ClearSans-Bold.ttf");*/
 }
 
 body {
   background: #faf8ef;
   text-align: center;
-  font-family: "Clear Sans";
+  /*font-family: "Clear Sans";*/
+  font-family: Sans-Serif;
   color: #776e65;
 }
 
